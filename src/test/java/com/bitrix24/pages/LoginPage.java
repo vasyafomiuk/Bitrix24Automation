@@ -21,6 +21,7 @@ public class LoginPage extends BasePage {
         String passwordString = ConfigurationReader.getProperty("password");
         email.sendKeys(usernameString);
         password.sendKeys(passwordString, Keys.ENTER);
+        //don't print password at work
         logger.info("Login with "+usernameString+" username and "+passwordString+" password");
 //        System.out.println("Login with "+usernameString+" username and "+passwordString+" password");
     }
