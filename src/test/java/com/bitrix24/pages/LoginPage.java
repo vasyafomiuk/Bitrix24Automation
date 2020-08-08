@@ -25,4 +25,32 @@ public class LoginPage extends BasePage {
         logger.info("Login with "+usernameString+" username and "+passwordString+" password");
 //        System.out.println("Login with "+usernameString+" username and "+passwordString+" password");
     }
+
+/*
+    * this method used for login under specific role
+    * @param role hr, helpdesk, marketing
+ */
+    public void login(String role){
+        role = role.toLowerCase();
+        //email.hr=hr30@cybertekschool.com
+        String usernameString = ConfigurationReader.getProperty("email."+role);
+        String passwordString = ConfigurationReader.getProperty("password");
+        email.sendKeys( usernameString );
+        password.sendKeys( passwordString , Keys.ENTER );
+        logger.info("Login as " +role);
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
