@@ -37,7 +37,8 @@ public class ActivityStreamPage extends BasePage{
         logger.info("File path: "+filePath);
         wait.until(ExpectedConditions.visibilityOf(uploadFilesIcon)).click();
         BrowserUtils.waitFor(2);
-        wait.until(ExpectedConditions.visibilityOf(uploadFilesAndImages)).sendKeys(filePath);
+        uploadFilesAndImages.sendKeys(filePath);
+        BrowserUtils.waitFor(2);
     }
 
     public void clickOnSendButton(){
