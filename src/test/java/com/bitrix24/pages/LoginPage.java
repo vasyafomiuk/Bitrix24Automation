@@ -31,11 +31,18 @@ public class LoginPage extends BasePage {
      */
     public void login(String role) {
         role = role.toLowerCase();
+        /**
+         * if(role == hr){
+         *    ConfigurationReader.getProperty("email." + "hr"); --> email.hr --> hr43@cybertekschool.com
+         *
+         * }
+         */
         //email.hr=hr43@cybertekschool.com
         String usernameString = ConfigurationReader.getProperty("email." + role);
         String passwordString = ConfigurationReader.getProperty("password");
         email.sendKeys(usernameString);
         password.sendKeys(passwordString, Keys.ENTER);
+
         logger.info("Logins as " + role);
 
     }
