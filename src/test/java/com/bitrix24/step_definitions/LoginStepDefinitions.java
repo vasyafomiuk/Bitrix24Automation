@@ -18,4 +18,9 @@ public class LoginStepDefinitions {
     public void user_logs_in_as(String role) {
         loginPage.login(role);
     }
+
+    @Given("user navigates to {string}")
+    public void user_navigates_to(String module) {
+        loginPage.navigateTo(module);
+    }
 }

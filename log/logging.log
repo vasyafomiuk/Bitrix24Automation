@@ -18,3 +18,26 @@
 2020-08-08 11:21:43 INFO  Driver:37 - Browser :: chrome
 2020-08-08 11:21:48 INFO  LoginPage:39 - Logins as hr
 2020-08-08 11:21:48 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:47:53 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:47:53 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:47:53 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:47:53 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:47:58 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:47:59 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:48:20 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:48:20 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:48:20 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:48:20 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:48:48 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:48:48 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:48:48 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:48:48 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:48:56 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:48:56 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:50:47 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:50:47 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:50:47 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:50:47 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:50:53 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:50:54 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 11:50:54 INFO  Hooks:31 - ::: Ending automation :::
