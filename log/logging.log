@@ -41,3 +41,19 @@
 2020-08-08 11:50:53 INFO  LoginPage:39 - Logins as hr
 2020-08-08 11:50:54 INFO  BasePage:37 - Navigating to: Activity Stream
 2020-08-08 11:50:54 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:35:24 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:35:24 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:35:24 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:35:24 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:35:30 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:35:30 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:35:30 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:36:40 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:36:41 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:36:41 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:36:41 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:36:41 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:36:41 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:36:48 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:36:48 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:36:48 INFO  Hooks:31 - ::: Ending automation :::
