@@ -4,3 +4,7 @@ Feature: As a user, I should be able to send messages by clicking on Message tab
     Given user is on the landing page
     And user logs in as "hr"
     And user navigates to "Activity Stream"
+    When user clicks on send message button
+    And uploads following file:
+      | File path | src/test/resources/testData/testImage.png |
+    Then user click on send button
