@@ -1,5 +1,6 @@
 package com.bitrix24.pages;
 
+import com.bitrix24.utilities.BrowserUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -19,6 +20,9 @@ public class ActivityStreamPage extends BasePage{
     @FindBy(name = "bxu_files[]")
     private WebElement uploadFilesAndImages;
 
+    @FindBy(id = "blog-submit-button-save")
+    private WebElement sendButton;
+
 
     public void clickOnSendMessageInput(){
         wait.until(ExpectedConditions.visibilityOf(sendMessageInputBox)).click();
@@ -31,8 +35,13 @@ public class ActivityStreamPage extends BasePage{
     public void uploadFile(String filePath){
         filePath = System.getProperty("user.dir")+"/"+filePath.replace("/", File.separator);
         logger.info("File path: "+filePath);
-        uploadFilesIcon.click();
-        uploadFilesAndImages.sendKeys(filePath);
+        wait.until(ExpectedConditions.visibilityOf(uploadFilesIcon)).click();
+        BrowserUtils.waitFor(2);
+        wait.until(ExpectedConditions.visibilityOf(uploadFilesAndImages)).sendKeys(filePath);
+    }
 
+    public void clickOnSendButton(){
+        wait.until(ExpectedConditions.elementToBeClickable(sendButton)).click();
+        logger.info("Clicking on the Send button");
     }
 }
