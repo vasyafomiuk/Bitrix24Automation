@@ -6,3 +6,15 @@
 2020-08-08 10:57:33 INFO  Hooks:19 - Browser type: chrome
 2020-08-08 10:57:33 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
 2020-08-08 10:57:33 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:20:41 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:20:41 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:20:41 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:20:41 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:20:48 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:20:49 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:21:43 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:21:43 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:21:43 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:21:43 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:21:48 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:21:48 INFO  Hooks:31 - ::: Ending automation :::
