@@ -9,9 +9,8 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json"
         },
         features = "src/test/resources/features",
-        glue = "com/bitrix24/step_definitions",
-        tags = "@fileUploading",
-        dryRun = true
+        glue = "com/bitrix24/step_definitions"
+//        tags = "@fileUploading",
 )
 @RunWith(Cucumber.class)
 public class TestRunner {
