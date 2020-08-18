@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2020-08-08 10:56:53 INFO  Hooks:18 - ::: Starting automation :::
 2020-08-08 10:56:53 INFO  Hooks:19 - Browser type: chrome
 2020-08-08 10:56:53 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
@@ -78,3 +79,130 @@
 2020-08-08 13:39:00 INFO  ActivityStreamPage:39 - File Path/home/bilal/Desktop/project2020/Bitrix24Automation/src/test/resources/testData/testimage.jpg
 2020-08-08 13:39:06 INFO  ActivityStreamPage:49 - Clicking on the Send Button
 2020-08-08 13:39:06 INFO  Hooks:31 - ::: Ending automation :::
+=======
+2020-08-08 10:56:32 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 10:56:32 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 10:56:32 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 10:56:33 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 10:57:33 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 10:57:33 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 10:57:33 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 10:57:33 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:20:41 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:20:41 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:20:41 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:20:41 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:20:48 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:20:49 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:21:43 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:21:43 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:21:43 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:21:43 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:21:48 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:21:48 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:47:53 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:47:53 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:47:53 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:47:53 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:47:58 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:47:59 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:48:20 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:48:20 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:48:20 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:48:20 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:48:48 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:48:48 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:48:48 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:48:48 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:48:56 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:48:56 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:50:47 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:50:47 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:50:47 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:50:47 INFO  Driver:37 - Browser :: chrome
+2020-08-08 11:50:53 INFO  LoginPage:39 - Logins as hr
+2020-08-08 11:50:54 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 11:50:54 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:35:24 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:35:24 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:35:24 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:35:24 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:35:30 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:35:30 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:35:30 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:36:40 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:36:41 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:36:41 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:36:41 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:36:41 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:36:41 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:36:48 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:36:48 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:36:48 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:42:51 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:42:51 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:42:51 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:42:51 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:42:51 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:42:52 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:42:57 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:42:58 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:42:58 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 12:43:11 INFO  Hooks:26 - Taking a screenshot
+2020-08-08 12:43:13 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:43:59 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:43:59 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:43:59 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:43:59 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:44:00 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:44:00 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:44:08 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:44:11 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:44:11 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 12:44:24 INFO  Hooks:27 - Taking a screenshot
+2020-08-08 12:44:25 INFO  Hooks:32 - ::: Ending automation :::
+2020-08-08 12:45:56 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:45:56 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:45:56 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:45:56 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:45:57 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:45:57 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:46:02 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:46:04 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:46:04 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 12:46:07 INFO  ActivityStreamPage:45 - Clicking on the Send button
+2020-08-08 12:46:07 INFO  Hooks:32 - ::: Ending automation :::
+2020-08-08 12:46:55 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:46:55 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:46:55 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:46:55 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:46:56 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:46:56 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:47:03 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:47:04 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:47:04 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 12:47:07 INFO  ActivityStreamPage:45 - Clicking on the Send button
+2020-08-08 12:47:07 INFO  Hooks:32 - ::: Ending automation :::
+2020-08-08 12:47:24 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:47:24 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:47:24 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:47:24 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:47:24 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:47:24 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:47:30 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:47:32 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:47:32 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 12:47:38 INFO  ActivityStreamPage:46 - Clicking on the Send button
+2020-08-08 12:47:38 INFO  Hooks:32 - ::: Ending automation :::
+2020-08-08 12:47:47 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:47:47 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:47:47 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:47:47 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:47:48 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-08 12:47:48 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/vfomiuk/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-08 12:47:56 INFO  LoginPage:46 - Logins as hr
+2020-08-08 12:47:57 INFO  BasePage:37 - Navigating to: Activity Stream
+2020-08-08 12:47:57 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
+2020-08-08 12:48:03 INFO  ActivityStreamPage:46 - Clicking on the Send button
+2020-08-08 12:48:03 INFO  Hooks:32 - ::: Ending automation :::
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba

@@ -6,6 +6,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
+import java.net.MalformedURLException;
+import java.net.URL;
 
 public class Driver {
     private static final Logger logger = Logger.getLogger(Driver.class);
@@ -41,6 +45,15 @@ public class Driver {
                     ChromeOptions chromeOptions = new ChromeOptions();
                     chromeOptions.addArguments("--start-maximized");
                     driverPool.set(new ChromeDriver(chromeOptions));
+                    break;
+                case "remote-chrome":
+                    try {
+                        URL url = new URL("http://3.81.14.251:4444/wd/hub");
+                        ChromeOptions chromeOptions1 = new ChromeOptions();
+                        driverPool.set(new RemoteWebDriver(url, chromeOptions1));
+                    } catch (MalformedURLException e) {
+                        e.printStackTrace();
+                    }
                     break;
                 case "chromeheadless":
                     //to run chrome without interface (headless mode)
