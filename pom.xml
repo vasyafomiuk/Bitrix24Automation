@@ -68,16 +68,24 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
+<<<<<<< HEAD
+
+=======
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>1.7.5</version>
         </dependency>
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.7.5</version>
         </dependency>
+<<<<<<< HEAD
+
+=======
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba
     </dependencies>
 
 </project>

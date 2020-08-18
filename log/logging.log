@@ -1,3 +1,85 @@
+<<<<<<< HEAD
+2020-08-08 10:56:53 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 10:56:53 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 10:56:53 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 10:56:53 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 11:00:30 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 11:00:30 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 11:00:30 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 11:00:30 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:37:58 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:37:58 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:37:58 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:37:58 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:38:00 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 12:38:01 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 12:38:15 INFO  LoginPage:40 - Login as hr
+2020-08-08 12:38:26 INFO  Hooks:26 - Taking a screenshot
+2020-08-08 12:39:18 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:39:18 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:39:18 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:39:18 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:39:18 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 12:39:18 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 12:39:25 INFO  LoginPage:40 - Login as hr
+2020-08-08 12:39:27 INFO  BasePage:38 - Navigating to: Activity Stream
+2020-08-08 12:39:34 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:43:08 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:43:08 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:43:08 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:43:08 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:43:09 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 12:43:09 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 12:43:16 INFO  LoginPage:40 - Login as hr
+2020-08-08 12:43:18 INFO  BasePage:38 - Navigating to: Activity Stream
+2020-08-08 12:43:18 INFO  ActivityStreamPage:39 - File Path/home/bilal/Desktop/project2020/Bitrix24Automation/src/test/resources/testData/testimage.jpg
+2020-08-08 12:43:28 INFO  Hooks:26 - Taking a screenshot
+2020-08-08 12:43:29 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:44:31 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:44:31 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:44:31 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:44:31 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:44:31 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 12:44:31 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 12:44:38 INFO  LoginPage:40 - Login as hr
+2020-08-08 12:44:39 INFO  BasePage:38 - Navigating to: Activity Stream
+2020-08-08 12:44:40 INFO  ActivityStreamPage:39 - File Path/home/bilal/Desktop/project2020/Bitrix24Automation/src/test/resources/testData/testimage.jpg
+2020-08-08 12:44:50 INFO  Hooks:26 - Taking a screenshot
+2020-08-08 12:44:50 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:45:49 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:45:49 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:45:49 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:45:49 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:45:50 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 12:45:50 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 12:45:56 INFO  LoginPage:40 - Login as hr
+2020-08-08 12:45:58 INFO  BasePage:38 - Navigating to: Activity Stream
+2020-08-08 12:45:59 INFO  ActivityStreamPage:39 - File Path/home/bilal/Desktop/project2020/Bitrix24Automation/src/test/resources/testData/testimage.jpg
+2020-08-08 12:46:09 INFO  Hooks:26 - Taking a screenshot
+2020-08-08 12:46:09 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 12:48:44 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 12:48:44 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 12:48:44 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 12:48:44 INFO  Driver:37 - Browser :: chrome
+2020-08-08 12:48:45 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 12:48:45 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 12:48:51 INFO  LoginPage:40 - Login as hr
+2020-08-08 12:48:53 INFO  BasePage:38 - Navigating to: Activity Stream
+2020-08-08 12:48:53 INFO  ActivityStreamPage:39 - File Path/home/bilal/Desktop/project2020/Bitrix24Automation/src/test/resources/testData/testimage.jpg
+2020-08-08 12:48:59 INFO  ActivityStreamPage:49 - Clicking on the Send Button
+2020-08-08 12:48:59 INFO  Hooks:31 - ::: Ending automation :::
+2020-08-08 13:38:46 INFO  Hooks:18 - ::: Starting automation :::
+2020-08-08 13:38:46 INFO  Hooks:19 - Browser type: chrome
+2020-08-08 13:38:46 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
+2020-08-08 13:38:47 INFO  Driver:37 - Browser :: chrome
+2020-08-08 13:38:47 INFO  WebDriverManager:573 - Using chromedriver 81.0.4044.138 (since Chrome 81 is installed in your machine)
+2020-08-08 13:38:47 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /home/bilal/.m2/repository/webdriver/chromedriver/linux64/81.0.4044.138/chromedriver
+2020-08-08 13:38:58 INFO  LoginPage:40 - Login as hr
+2020-08-08 13:39:00 INFO  BasePage:38 - Navigating to: Activity Stream
+2020-08-08 13:39:00 INFO  ActivityStreamPage:39 - File Path/home/bilal/Desktop/project2020/Bitrix24Automation/src/test/resources/testData/testimage.jpg
+2020-08-08 13:39:06 INFO  ActivityStreamPage:49 - Clicking on the Send Button
+2020-08-08 13:39:06 INFO  Hooks:31 - ::: Ending automation :::
+=======
 2020-08-08 10:56:32 INFO  Hooks:18 - ::: Starting automation :::
 2020-08-08 10:56:32 INFO  Hooks:19 - Browser type: chrome
 2020-08-08 10:56:32 INFO  Hooks:20 - URL: http://login2.nextbasecrm.com
@@ -123,3 +205,4 @@
 2020-08-08 12:47:57 INFO  ActivityStreamPage:37 - File path: /Users/vfomiuk/IdeaProjects/Bitrix24Automation/src/test/resources/testData/testImage.png
 2020-08-08 12:48:03 INFO  ActivityStreamPage:46 - Clicking on the Send button
 2020-08-08 12:48:03 INFO  Hooks:32 - ::: Ending automation :::
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba

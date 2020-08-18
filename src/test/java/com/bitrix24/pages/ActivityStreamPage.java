@@ -9,6 +9,10 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import java.io.File;
 
 public class ActivityStreamPage extends BasePage{
+<<<<<<< HEAD
+
+=======
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba
     private final static Logger logger = Logger.getLogger(ActivityStreamPage.class);
 
     @FindBy(id = "microoPostFormLHE_blogPostForm_inner")
@@ -28,6 +32,16 @@ public class ActivityStreamPage extends BasePage{
         wait.until(ExpectedConditions.visibilityOf(sendMessageInputBox)).click();
     }
 
+<<<<<<< HEAD
+    /*
+     * File path will be provided as a parameter, should start with src.
+     * @param filePath like src/test/resources/testDate/image.jpeg
+     */
+
+    public void uploadFile(String filePath){
+        filePath = System.getProperty("user.dir") +"/"+filePath.replace("/", File.separator);
+        logger.info( "File Path" + filePath );
+=======
     /**
      * File path will be provided as a parameter. Should start with src.
      * @param filePath like src/test/resources/testData/image.jpeg
@@ -35,14 +49,25 @@ public class ActivityStreamPage extends BasePage{
     public void uploadFile(String filePath){
         filePath = System.getProperty("user.dir")+"/"+filePath.replace("/", File.separator);
         logger.info("File path: "+filePath);
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba
         wait.until(ExpectedConditions.visibilityOf(uploadFilesIcon)).click();
         BrowserUtils.waitFor(2);
         uploadFilesAndImages.sendKeys(filePath);
         BrowserUtils.waitFor(2);
+<<<<<<< HEAD
+
+=======
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba
     }
 
     public void clickOnSendButton(){
         wait.until(ExpectedConditions.elementToBeClickable(sendButton)).click();
+<<<<<<< HEAD
+        logger.info("Clicking on the Send Button");
+    }
+
+=======
         logger.info("Clicking on the Send button");
     }
+>>>>>>> b007029d5b837d9b6458e5eae38cda6f4ccb8dba
 }
