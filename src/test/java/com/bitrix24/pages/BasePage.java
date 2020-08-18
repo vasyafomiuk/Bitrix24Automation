@@ -35,7 +35,7 @@ public abstract class BasePage {
         String xpath = "//span[contains(text(),'"+moduleName+"') and @class='menu-item-link-text']";
         // wait for presence of element and click on it
         wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(xpath))).click();
-        logger.info("Navigating to: "+moduleName);
+        logger.info("Navigating to: " + moduleName);
     }
 
 }
